@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Dynamics.Nav.SMTP", "SMTP\Microsoft.Dynamics.Nav.SMTP.csproj", "{967DDA8E-5B3C-4784-8431-0AB2C91A273E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTPTest", "SMTPTest\SMTPTest.csproj", "{C1B5CAE3-9C45-4E7C-BA1C-3FD757C0BFF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{967DDA8E-5B3C-4784-8431-0AB2C91A273E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967DDA8E-5B3C-4784-8431-0AB2C91A273E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967DDA8E-5B3C-4784-8431-0AB2C91A273E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967DDA8E-5B3C-4784-8431-0AB2C91A273E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B5CAE3-9C45-4E7C-BA1C-3FD757C0BFF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B5CAE3-9C45-4E7C-BA1C-3FD757C0BFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B5CAE3-9C45-4E7C-BA1C-3FD757C0BFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B5CAE3-9C45-4E7C-BA1C-3FD757C0BFF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

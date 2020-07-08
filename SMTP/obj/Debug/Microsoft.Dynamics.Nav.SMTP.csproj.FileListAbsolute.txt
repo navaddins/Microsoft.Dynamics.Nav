@@ -1,0 +1,5 @@
+C:\Users\z639388\Desktop\Microsoft.Dynamics.Nav.SMTP\bin\Debug\Microsoft.Dynamics.Nav.SMTP.dll
+C:\Users\z639388\Desktop\Microsoft.Dynamics.Nav.SMTP\bin\Debug\Microsoft.Dynamics.Nav.SMTP.pdb
+C:\Users\z639388\Desktop\Microsoft.Dynamics.Nav.SMTP\obj\Debug\Microsoft.Dynamics.Nav.SMTP.csprojResolveAssemblyReference.cache
+C:\Users\z639388\Desktop\Microsoft.Dynamics.Nav.SMTP\obj\Debug\Microsoft.Dynamics.Nav.SMTP.dll
+C:\Users\z639388\Desktop\Microsoft.Dynamics.Nav.SMTP\obj\Debug\Microsoft.Dynamics.Nav.SMTP.pdb
